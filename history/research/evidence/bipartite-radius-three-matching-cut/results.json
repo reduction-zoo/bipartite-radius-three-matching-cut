@@ -1,0 +1,42 @@
+[
+  {
+    "wires": 1,
+    "selectors": 0,
+    "vertices": 20,
+    "edges": 37,
+    "center_eccentricity": 3,
+    "same_center_nonconstant": "UNSAT",
+    "bad_relation_queries": 1,
+    "extensions": 2
+  },
+  {
+    "wires": 0,
+    "selectors": 1,
+    "vertices": 20,
+    "edges": 35,
+    "center_eccentricity": 3,
+    "same_center_nonconstant": "UNSAT",
+    "bad_relation_queries": 1,
+    "extensions": 3
+  },
+  {
+    "wires": 1,
+    "selectors": 1,
+    "vertices": 28,
+    "edges": 53,
+    "center_eccentricity": 3,
+    "same_center_nonconstant": "UNSAT",
+    "bad_relation_queries": 2,
+    "extensions": 6
+  },
+  {
+    "wires": 2,
+    "selectors": 2,
+    "vertices": 44,
+    "edges": 87,
+    "center_eccentricity": 3,
+    "same_center_nonconstant": "UNSAT",
+    "bad_relation_queries": 4,
+    "extensions": 36
+  }
+]
