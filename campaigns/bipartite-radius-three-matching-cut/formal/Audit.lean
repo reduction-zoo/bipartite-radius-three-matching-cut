@@ -1,0 +1,3 @@
+import Challenge
+#print axioms BipartiteRadiusThreeMatchingCut.Goal
+#print axioms BipartiteRadiusThreeMatchingCut.solve
